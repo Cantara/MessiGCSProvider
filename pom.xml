@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.cantara.messi</groupId>
-    <artifactId>messi-s3-provider</artifactId>
+    <artifactId>messi-gcs-provider</artifactId>
     <version>0.8.49-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Messi S3 Provider</name>
-    <description>Messi S3 Provider</description>
-    <url>https://github.com/Cantara/MessiS3Provider</url>
+    <name>Messi GCS Provider</name>
+    <description>Messi GCS Provider</description>
+    <url>https://github.com/Cantara/MessiGCSProvider</url>
     <inceptionYear>2021</inceptionYear>
 
     <properties>
@@ -34,10 +34,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/Cantara/MessiS3Provider.git</connection>
-        <developerConnection>scm:git:git@github.com:Cantara/MessiS3Provider.git</developerConnection>
-        <url>https://github.com/Cantara/MessiS3Provider/tree/master</url>
-        <tag>messi-s3-provider-0.8.26</tag>
+        <connection>scm:git:git://github.com/Cantara/MessiGCSProvider.git</connection>
+        <developerConnection>scm:git:git@github.com:Cantara/MessiGCSProvider.git</developerConnection>
+        <url>https://github.com/Cantara/MessiGCSProvider/tree/master</url>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
