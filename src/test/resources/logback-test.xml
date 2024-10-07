@@ -12,7 +12,7 @@
     <logger name="no.cantara.messi.avro" level="INFO"/>
     <logger name="no.cantara.messi.filesystem" level="INFO"/>
     <logger name="no.cantara.messi.cloudstorage" level="INFO"/>
-    <logger name="no.cantara.messi.s3" level="INFO"/>
+    <logger name="no.cantara.messi.gcs" level="INFO"/>
 
     <root level="INFO">
         <appender-ref ref="STDOUT"/>

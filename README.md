@@ -1,2 +1,3 @@
-# MessiS3Provider
-S3 provider for the Messi messaging and streaming abstraction
+# MessiGCSProvider
+
+Google Cloud Storage (GCS) provider for the Messi messaging and streaming abstraction
