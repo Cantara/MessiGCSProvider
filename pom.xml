@@ -35,7 +35,7 @@
             <name>Kim Christian Gaarder</name>
             <email>kim.christian.gaarder@gmail.com</email>
             <url>https://www.linkedin.com/in/kimchristiangaarder/</url>
-            <organization>Exoreaction AS</organization>
+            <organization>eXOReaction AS</organization>
             <organizationUrl>https://exoreaction.com/</organizationUrl>
         </developer>
     </developers>
@@ -56,12 +56,12 @@
         <dependency>
             <groupId>no.cantara.messi</groupId>
             <artifactId>messi-sdk</artifactId>
-            <version>0.11.1-SNAPSHOT</version>
+            <version>0.12.0</version>
         </dependency>
         <dependency>
             <groupId>no.cantara.messi</groupId>
             <artifactId>messi-filesystem-provider</artifactId>
-            <version>0.7.45-SNAPSHOT</version>
+            <version>0.11.0</version>
         </dependency>
         <dependency>
             <groupId>no.cantara.config</groupId>
