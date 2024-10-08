@@ -1,6 +1,6 @@
 module messi.provider.gcs {
     requires messi.sdk;
-    requires messi.filesystem.provider;
+    requires messi.provider.filesystem;
     requires property.config;
 
     requires org.apache.avro;
