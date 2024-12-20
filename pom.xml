@@ -4,7 +4,7 @@
 
     <groupId>no.cantara.messi</groupId>
     <artifactId>messi-gcs-provider</artifactId>
-    <version>0.12.7</version>
+    <version>0.12.8-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Messi GCS Provider</name>
@@ -44,7 +44,7 @@
         <connection>scm:git:git://github.com/Cantara/MessiGCSProvider.git</connection>
         <developerConnection>scm:git:git@github.com:Cantara/MessiGCSProvider.git</developerConnection>
         <url>https://github.com/Cantara/MessiGCSProvider/tree/master</url>
-        <tag>messi-gcs-provider-0.12.7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
